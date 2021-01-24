@@ -16,9 +16,11 @@ I will address these questions.
 - How many Vine reviews and non-Vine reviews were there?
 
   - There were 21 Vine reviews:
+
 ![](./Resources/pdtotal.png)  
 
   - There were 6690 non-Vine reviews:
+
 ![](./Resources/unpdtotal.png)  
 
 - How many Vine and non-Vine reviews were 5 stars?
