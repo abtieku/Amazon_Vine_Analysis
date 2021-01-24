@@ -14,16 +14,18 @@ First, I narrowed down the dataset, running filters for the following:
 I will address these questions.
 
 - How many Vine reviews and non-Vine reviews were there?
+
   - There were 21 Vine reviews:
 ![](./Resources/pdtotal.png)  
 
-	- There were 6690 non-Vine reviews:
+  - There were 6690 non-Vine reviews:
 ![](./Resources/unpdtotal.png)  
 
 - How many Vine and non-Vine reviews were 5 stars?
   - There were 10 5-star Vine reviews:
 ![](./Resources/pd5star.png)  
-  - There were 3448 5-star non-Vine reviews.
+
+  - There were 3448 5-star non-Vine reviews:
 ![](./Resources/unpd5star.png) 
 
 - What percentage of Vine and non-Vine reviews were 5 stars?
