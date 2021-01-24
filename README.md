@@ -17,11 +17,11 @@ I will address these questions.
 
   - There were 21 Vine reviews:
 
-![](./Resources/pdtotal.png)  
+	![](./Resources/pdtotal.png)  
 
   - There were 6690 non-Vine reviews:
 
-![](./Resources/unpdtotal.png)  
+	![](./Resources/unpdtotal.png)  
 
 - How many Vine and non-Vine reviews were 5 stars?
 
