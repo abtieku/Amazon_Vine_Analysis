@@ -22,6 +22,7 @@ I will address these questions.
 ![](./Resources/unpdtotal.png)  
 
 - How many Vine and non-Vine reviews were 5 stars?
+
   - There were 10 5-star Vine reviews:
 ![](./Resources/pd5star.png)  
 
